@@ -1,6 +1,7 @@
 \begin{figure}[ht]
 \centering
-\includegraphics[width=\linewidth]{phylogenetic_binder_comp_design_figures_001.png}
+\includegraphics[width=\linewidth]{phylogenetic_binder_comp_design_figures_001.png}![phylogenetic_binder_comp_design_figures 001](https://github.com/user-attachments/assets/1f33014f-e1d7-4e91-b26c-3f039c228296)
+
 
 \caption{
 \textbf{Assembly pathway of plant Rubisco.}
