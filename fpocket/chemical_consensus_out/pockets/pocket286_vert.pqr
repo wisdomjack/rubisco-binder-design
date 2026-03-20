@@ -1,0 +1,44 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   286:
+HEADER 0  - Pocket Score                      : -0.1921
+HEADER 1  - Drug Score                        : 0.0003
+HEADER 2  - Number of V. Vertices             :    22
+HEADER 3  - Mean alpha-sphere radius          : 4.9320
+HEADER 4  - Mean alpha-sphere SA              : 0.6356
+HEADER 5  - Mean B-factor                     : 0.7192
+HEADER 6  - Hydrophobicity Score              : 25.2857
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 3.8571
+HEADER 9  - Real volume (approximation)       : 435.2695
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 8.0000
+HEADER 12 - Number of apolar alpha sphere     :     9
+HEADER 13 - Proportion of apolar alpha sphere : 0.4091
+ATOM      1    O STP   286     -33.869  26.439 -33.146    0.00     3.88
+ATOM      2    C STP   286     -33.515  26.283 -32.921    0.00     3.53
+ATOM      3    O STP   286     -33.783  26.531 -33.187    0.00     3.82
+ATOM      4    C STP   286     -34.758  27.949 -32.344    0.00     4.11
+ATOM      5    O STP   286     -38.476  26.155 -32.327    0.00     5.93
+ATOM      6    C STP   286     -35.025  27.582 -32.226    0.00     4.28
+ATOM      7    O STP   286     -37.891  25.696 -32.407    0.00     5.72
+ATOM      8    C STP   286     -37.713  25.459 -32.075    0.00     5.37
+ATOM      9    O STP   286     -33.892  26.434 -33.131    0.00     3.89
+ATOM     10    O STP   286     -35.083  27.096 -32.262    0.00     4.35
+ATOM     11    O STP   286     -36.963  26.205 -32.325    0.00     5.10
+ATOM     12    C STP   286     -34.515  26.864 -31.462    0.00     3.60
+ATOM     13    C STP   286     -37.788  25.419 -31.967    0.00     5.35
+ATOM     14    O STP   286     -38.327  25.676 -32.538    0.00     5.89
+ATOM     15    C STP   286     -38.088  25.740 -32.387    0.00     5.82
+ATOM     16    C STP   286     -38.169  25.907 -31.644    0.00     5.32
+ATOM     17    O STP   286     -38.911  25.826 -31.434    0.00     5.07
+ATOM     18    O STP   286     -39.085  25.670 -30.533    0.00     4.32
+ATOM     19    O STP   286     -38.404  26.040 -32.336    0.00     5.92
+ATOM     20    C STP   286     -38.202  25.881 -32.347    0.00     5.85
+ATOM     21    O STP   286     -38.461  26.093 -32.221    0.00     5.86
+ATOM     22    O STP   286     -38.404  26.079 -31.794    0.00     5.52
+TER
+END

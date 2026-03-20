@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   275:
+HEADER 0  - Pocket Score                      : -0.1755
+HEADER 1  - Drug Score                        : 0.0001
+HEADER 2  - Number of V. Vertices             :    18
+HEADER 3  - Mean alpha-sphere radius          : 3.9562
+HEADER 4  - Mean alpha-sphere SA              : 0.4435
+HEADER 5  - Mean B-factor                     : 0.9049
+HEADER 6  - Hydrophobicity Score              : -10.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 3.6667
+HEADER 9  - Real volume (approximation)       : 184.5969
+HEADER 10 - Charge Score                      :     1
+HEADER 11 - Local hydrophobic density Score   : 9.0000
+HEADER 12 - Number of apolar alpha sphere     :    10
+HEADER 13 - Proportion of apolar alpha sphere : 0.5556
+ATOM      1    C STP   275      -7.366  48.650  12.326    0.00     4.02
+ATOM      2    O STP   275      -7.372  48.668  12.326    0.00     4.03
+ATOM      3    O STP   275      -7.766  50.558  12.906    0.00     4.66
+ATOM      4    O STP   275      -7.632  48.585  12.503    0.00     4.03
+ATOM      5    O STP   275      -7.502  48.619  12.413    0.00     4.02
+ATOM      6    C STP   275      -7.632  48.569  12.493    0.00     4.02
+ATOM      7    O STP   275      -8.139  49.680  13.041    0.00     4.36
+ATOM      8    O STP   275      -8.184  48.869  12.948    0.00     4.17
+ATOM      9    C STP   275      -8.559  48.195  12.754    0.00     3.89
+ATOM     10    C STP   275      -8.942  47.506  12.915    0.00     3.56
+ATOM     11    C STP   275      -8.840  47.689  12.757    0.00     3.70
+ATOM     12    C STP   275      -9.319  47.858  12.457    0.00     3.51
+ATOM     13    C STP   275      -6.370  48.706  11.975    0.00     3.89
+ATOM     14    O STP   275      -7.218  50.021  12.424    0.00     4.38
+ATOM     15    O STP   275      -6.938  49.276  12.105    0.00     4.17
+ATOM     16    C STP   275      -5.614  48.506  12.108    0.00     3.54
+ATOM     17    C STP   275      -6.003  48.392  11.770    0.00     3.71
+ATOM     18    C STP   275      -5.851  48.334  11.524    0.00     3.56
+TER
+END

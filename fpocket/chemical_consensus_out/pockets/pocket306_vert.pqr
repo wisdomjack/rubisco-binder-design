@@ -1,0 +1,40 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   306:
+HEADER 0  - Pocket Score                      : -0.2218
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of V. Vertices             :    18
+HEADER 3  - Mean alpha-sphere radius          : 4.3277
+HEADER 4  - Mean alpha-sphere SA              : 0.5166
+HEADER 5  - Mean B-factor                     : 0.7791
+HEADER 6  - Hydrophobicity Score              : 6.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Volume Score                      : 3.8571
+HEADER 9  - Real volume (approximation)       : 286.9790
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 3.0000
+HEADER 12 - Number of apolar alpha sphere     :     4
+HEADER 13 - Proportion of apolar alpha sphere : 0.2222
+ATOM      1    O STP   306       5.984 -53.041 -19.335    0.00     4.00
+ATOM      2    O STP   306       6.598 -53.894 -19.030    0.00     4.65
+ATOM      3    O STP   306       7.269 -52.492 -17.799    0.00     3.66
+ATOM      4    O STP   306       6.645 -53.905 -19.098    0.00     4.64
+ATOM      5    C STP   306       6.958 -53.918 -19.463    0.00     4.55
+ATOM      6    C STP   306       6.957 -53.917 -19.464    0.00     4.55
+ATOM      7    O STP   306       7.565 -55.850 -19.268    0.00     4.64
+ATOM      8    O STP   306       7.807 -55.207 -19.857    0.00     4.50
+ATOM      9    C STP   306       6.910 -53.903 -19.436    0.00     4.55
+ATOM     10    O STP   306       6.553 -53.842 -19.136    0.00     4.59
+ATOM     11    O STP   306       6.399 -53.720 -19.168    0.00     4.51
+ATOM     12    O STP   306       6.477 -53.801 -19.119    0.00     4.57
+ATOM     13    O STP   306       5.018 -53.262 -19.403    0.00     3.91
+ATOM     14    O STP   306       4.501 -53.328 -19.339    0.00     3.85
+ATOM     15    O STP   306       4.528 -53.231 -19.403    0.00     3.83
+ATOM     16    C STP   306       6.955 -53.922 -19.505    0.00     4.52
+ATOM     17    O STP   306       8.996 -56.358 -20.317    0.00     4.81
+ATOM     18    O STP   306       8.536 -52.852 -19.706    0.00     3.54
+TER
+END

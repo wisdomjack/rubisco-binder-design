@@ -1,0 +1,138 @@
+Alignment: rbcs_aligned.fasta
+Sequences: 40
+Length: 135
+Pos    1 | gap 0.825 | skipped
+Pos    2 | identity 0.806 | gap 0.100 | entropy 0.711 | raw=M | chem=M | blosum=M | {'M': 29, 'Q': 7}
+Pos    3 | identity 1.000 | gap 0.125 | entropy 0.000 | raw=C | chem=C | blosum=C | {'C': 35}
+Pos    4 | identity 0.974 | gap 0.025 | entropy 0.172 | raw=M | chem=M | blosum=M | {'M': 38, 'I': 1}
+Pos    5 | identity 0.615 | gap 0.025 | entropy 1.097 | raw=Q | chem=Q | blosum=Q | {'K': 14, 'Q': 24, 'L': 1}
+Pos    6 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=V | chem=V | blosum=V | {'V': 39}
+Pos    7 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=W | chem=W | blosum=W | {'W': 39}
+Pos    8 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 39}
+Pos    9 | identity 0.436 | gap 0.025 | entropy 1.810 | raw=P | chem=I | blosum=P | {'P': 17, 'T': 4, 'I': 14, 'A': 3, 'V': 1}
+Pos   10 | identity 0.447 | gap 0.050 | entropy 2.093 | raw=E | chem=I | blosum=E | {'I': 8, 'L': 7, 'V': 3, 'T': 1, 'E': 17, 'Y': 2}
+Pos   11 | identity 0.872 | gap 0.025 | entropy 0.552 | raw=G | chem=G | blosum=G | {'G': 34, 'N': 5}
+Pos   12 | identity 0.256 | gap 0.025 | entropy 2.578 | raw=K | chem=L | blosum=M | {'K': 10, 'M': 3, 'L': 8, 'I': 8, 'N': 5, 'G': 1, 'V': 4}
+Pos   13 | identity 0.949 | gap 0.025 | entropy 0.343 | raw=K | chem=K | blosum=K | {'K': 37, 'R': 1, 'M': 1}
+Pos   14 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=K | chem=K | blosum=K | {'K': 40}
+Pos   15 | identity 0.850 | gap 0.000 | entropy 0.610 | raw=F | chem=F | blosum=F | {'F': 34, 'Y': 6}
+Pos   16 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=E | chem=E | blosum=E | {'E': 40}
+Pos   17 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=T | chem=T | blosum=T | {'T': 40}
+Pos   18 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=L | chem=L | blosum=L | {'L': 40}
+Pos   19 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=S | chem=S | blosum=S | {'S': 40}
+Pos   20 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=Y | chem=Y | blosum=Y | {'Y': 40}
+Pos   21 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=L | chem=L | blosum=L | {'L': 40}
+Pos   22 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 40}
+Pos   23 | identity 0.625 | gap 0.000 | entropy 1.294 | raw=P | chem=P | blosum=P | {'D': 12, 'P': 25, 'T': 2, 'S': 1}
+Pos   24 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=L | chem=L | blosum=L | {'L': 37, 'M': 3}
+Pos   25 | identity 0.525 | gap 0.000 | entropy 1.551 | raw=S | chem=S | blosum=S | {'S': 21, 'D': 1, 'T': 15, 'N': 1, 'K': 1, 'P': 1}
+Pos   26 | identity 0.250 | gap 0.000 | entropy 2.873 | raw=D | chem=D | blosum=D | {'D': 10, 'Q': 2, 'E': 6, 'P': 2, 'T': 10, 'N': 2, 'K': 1, 'R': 1, 'V': 4, 'I': 2}
+Pos   27 | identity 0.750 | gap 0.000 | entropy 1.323 | raw=E | chem=E | blosum=E | {'V': 3, 'A': 1, 'E': 30, 'T': 1, 'Q': 1, 'D': 4}
+Pos   28 | identity 0.450 | gap 0.000 | entropy 2.004 | raw=Q | chem=Q | blosum=Q | {'E': 5, 'Q': 18, 'S': 2, 'A': 9, 'D': 6}
+Pos   29 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=L | chem=L | blosum=L | {'L': 39, 'V': 1}
+Pos   30 | identity 0.550 | gap 0.000 | entropy 1.987 | raw=L | chem=L | blosum=L | {'A': 9, 'L': 22, 'G': 2, 'R': 1, 'S': 3, 'C': 1, 'V': 1, 'I': 1}
+Pos   31 | identity 0.900 | gap 0.000 | entropy 0.550 | raw=K | chem=K | blosum=K | {'K': 36, 'S': 3, 'A': 1}
+Pos   32 | identity 0.500 | gap 0.000 | entropy 1.000 | raw=E | chem=E | blosum=E | {'E': 20, 'Q': 20}
+Pos   33 | identity 0.525 | gap 0.000 | entropy 1.139 | raw=V | chem=V | blosum=V | {'V': 21, 'I': 18, 'C': 1}
+Pos   34 | identity 0.575 | gap 0.000 | entropy 1.256 | raw=D | chem=D | blosum=D | {'D': 23, 'E': 15, 'N': 1, 'A': 1}
+Pos   35 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=Y | chem=Y | blosum=Y | {'Y': 39, 'F': 1}
+Pos   36 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=L | chem=L | blosum=L | {'L': 40}
+Pos   37 | identity 0.700 | gap 0.000 | entropy 0.881 | raw=L | chem=L | blosum=L | {'L': 28, 'I': 12}
+Pos   38 | identity 0.875 | gap 0.000 | entropy 0.715 | raw=R | chem=R | blosum=R | {'R': 35, 'K': 3, 'V': 1, 'Q': 1}
+Pos   39 | identity 0.400 | gap 0.000 | entropy 1.695 | raw=S | chem=S | blosum=N | {'N': 12, 'K': 11, 'S': 16, 'M': 1}
+Pos   40 | identity 0.425 | gap 0.000 | entropy 1.597 | raw=G | chem=K | blosum=G | {'K': 16, 'G': 17, 'N': 6, 'R': 1}
+Pos   41 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=W | chem=W | blosum=W | {'W': 40}
+Pos   42 | identity 0.575 | gap 0.000 | entropy 0.984 | raw=V | chem=V | blosum=V | {'I': 17, 'V': 23}
+Pos   43 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 40}
+Pos   44 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=C | chem=C | blosum=C | {'C': 39, 'P': 1}
+Pos   45 | identity 0.875 | gap 0.000 | entropy 0.665 | raw=L | chem=L | blosum=L | {'V': 3, 'L': 35, 'I': 2}
+Pos   46 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=E | chem=E | blosum=E | {'E': 40}
+Pos   47 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=F | chem=F | blosum=F | {'F': 40}
+Pos   48 | identity 0.425 | gap 0.000 | entropy 1.814 | raw=E | chem=E | blosum=E | {'E': 17, 'D': 2, 'T': 1, 'S': 14, 'C': 6}
+Pos   49 | identity 0.550 | gap 0.500 | entropy 1.819 | raw=L | chem=L | blosum=L | {'L': 11, 'T': 4, 'V': 2, 'I': 2, 'K': 1}
+Pos   50 | identity 0.425 | gap 0.000 | entropy 1.970 | raw=K | chem=K | blosum=K | {'E': 15, 'K': 17, 'G': 2, 'L': 1, 'H': 2, 'P': 2, 'T': 1}
+Pos   51 | identity 0.325 | gap 0.000 | entropy 2.630 | raw=V | chem=V | blosum=H | {'H': 11, 'K': 3, 'E': 4, 'D': 1, 'R': 1, 'Y': 2, 'S': 2, 'V': 13, 'I': 3}
+Pos   52 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=G | chem=G | blosum=G | {'G': 39, 'P': 1}
+Pos   53 | identity 0.925 | gap 0.000 | entropy 0.503 | raw=F | chem=F | blosum=F | {'F': 37, 'W': 1, 'Y': 1, 'L': 1}
+Pos   54 | identity 0.900 | gap 0.000 | entropy 0.569 | raw=V | chem=V | blosum=V | {'V': 36, 'P': 2, 'I': 2}
+Pos   55 | identity 0.775 | gap 0.000 | entropy 1.045 | raw=Y | chem=Y | blosum=Y | {'Y': 31, 'H': 2, 'F': 6, 'W': 1}
+Pos   56 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=R | chem=R | blosum=R | {'R': 40}
+Pos   57 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=E | chem=E | blosum=E | {'E': 37, 'K': 3}
+Pos   58 | identity 0.475 | gap 0.000 | entropy 1.309 | raw=N | chem=N | blosum=H | {'H': 18, 'N': 19, 'Y': 3}
+Pos   59 | identity 0.375 | gap 0.000 | entropy 2.215 | raw=H | chem=N | blosum=H | {'G': 4, 'N': 11, 'H': 15, 'S': 5, 'A': 4, 'D': 1}
+Pos   60 | identity 0.375 | gap 0.000 | entropy 2.315 | raw=R | chem=R | blosum=R | {'N': 2, 'R': 15, 'K': 4, 'S': 11, 'H': 1, 'A': 2, 'T': 5}
+Pos   61 | identity 0.875 | gap 0.000 | entropy 0.715 | raw=S | chem=S | blosum=S | {'T': 3, 'S': 35, 'L': 1, 'V': 1}
+Pos   62 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 40}
+Pos   63 | identity 0.875 | gap 0.000 | entropy 0.715 | raw=G | chem=G | blosum=G | {'G': 35, 'T': 1, 'C': 3, 'Y': 1}
+Pos   64 | identity 0.974 | gap 0.025 | entropy 0.172 | raw=Y | chem=Y | blosum=Y | {'Y': 38, 'F': 1}
+Pos   65 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=Y | chem=Y | blosum=Y | {'Y': 39}
+Pos   66 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=D | chem=D | blosum=D | {'D': 39}
+Pos   67 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=G | chem=G | blosum=G | {'G': 39}
+Pos   68 | identity 1.000 | gap 0.025 | entropy 0.000 | raw=R | chem=R | blosum=R | {'R': 39}
+Pos   69 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=Y | chem=Y | blosum=Y | {'Y': 40}
+Pos   70 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=W | chem=W | blosum=W | {'W': 40}
+Pos   71 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=T | chem=T | blosum=T | {'T': 40}
+Pos   72 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=M | chem=M | blosum=M | {'M': 40}
+Pos   73 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=W | chem=W | blosum=W | {'W': 40}
+Pos   74 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=K | chem=K | blosum=K | {'K': 40}
+Pos   75 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=L | chem=L | blosum=L | {'L': 40}
+Pos   76 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 40}
+Pos   77 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=M | chem=M | blosum=M | {'L': 3, 'M': 37}
+Pos   78 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=F | chem=F | blosum=F | {'F': 40}
+Pos   79 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=G | chem=G | blosum=G | {'G': 40}
+Pos   80 | identity 0.950 | gap 0.000 | entropy 0.336 | raw=C | chem=C | blosum=C | {'C': 38, 'A': 1, 'G': 1}
+Pos   81 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=T | chem=T | blosum=T | {'T': 37, 'N': 3}
+Pos   82 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=D | chem=D | blosum=D | {'D': 37, 'E': 3}
+Pos   83 | identity 0.625 | gap 0.000 | entropy 1.217 | raw=A | chem=A | blosum=A | {'S': 13, 'A': 25, 'G': 1, 'P': 1}
+Pos   84 | identity 0.450 | gap 0.000 | entropy 1.965 | raw=T | chem=T | blosum=T | {'A': 8, 'S': 10, 'T': 18, 'G': 1, 'V': 2, 'I': 1}
+Pos   85 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=Q | chem=Q | blosum=Q | {'Q': 40}
+Pos   86 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=V | chem=V | blosum=V | {'V': 40}
+Pos   87 | identity 0.525 | gap 0.000 | entropy 2.059 | raw=L | chem=L | blosum=L | {'L': 21, 'M': 2, 'V': 3, 'I': 4, 'Y': 6, 'A': 4}
+Pos   88 | identity 0.625 | gap 0.000 | entropy 1.644 | raw=K | chem=K | blosum=K | {'K': 25, 'A': 6, 'E': 1, 'L': 1, 'N': 6, 'Q': 1}
+Pos   89 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=E | chem=E | blosum=E | {'E': 40}
+Pos   90 | identity 0.550 | gap 0.000 | entropy 1.354 | raw=L | chem=L | blosum=L | {'V': 15, 'L': 22, 'I': 2, 'F': 1}
+Pos   91 | identity 0.575 | gap 0.000 | entropy 1.790 | raw=E | chem=E | blosum=E | {'E': 23, 'Q': 10, 'A': 2, 'Y': 1, 'D': 2, 'G': 1, 'R': 1}
+Pos   92 | identity 0.950 | gap 0.000 | entropy 0.286 | raw=E | chem=E | blosum=E | {'E': 38, 'N': 2}
+Pos   93 | identity 0.475 | gap 0.000 | entropy 1.687 | raw=A | chem=A | blosum=C | {'C': 12, 'A': 19, 'V': 7, 'L': 2}
+Pos   94 | identity 0.825 | gap 0.000 | entropy 0.960 | raw=K | chem=K | blosum=K | {'K': 33, 'R': 1, 'Q': 1, 'I': 4, 'E': 1}
+Pos   95 | identity 0.725 | gap 0.000 | entropy 1.212 | raw=K | chem=K | blosum=K | {'K': 29, 'T': 4, 'N': 1, 'A': 6}
+Pos   96 | identity 0.450 | gap 0.000 | entropy 1.450 | raw=E | chem=E | blosum=E | {'E': 18, 'A': 18, 'H': 1, 'S': 3}
+Pos   97 | identity 0.925 | gap 0.000 | entropy 0.453 | raw=Y | chem=Y | blosum=Y | {'Y': 37, 'P': 1, 'H': 2}
+Pos   98 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 40}
+Pos   99 | identity 0.525 | gap 0.000 | entropy 2.140 | raw=D | chem=D | blosum=D | {'G': 2, 'N': 6, 'Q': 6, 'E': 1, 'D': 21, 'K': 1, 'H': 2, 'T': 1}
+Pos  100 | identity 0.775 | gap 0.000 | entropy 1.195 | raw=A | chem=A | blosum=A | {'A': 31, 'G': 3, 'S': 2, 'N': 1, 'C': 3}
+Pos  101 | identity 0.550 | gap 0.000 | entropy 1.504 | raw=F | chem=F | blosum=F | {'F': 22, 'W': 5, 'H': 1, 'Y': 12}
+Pos  102 | identity 0.600 | gap 0.000 | entropy 1.445 | raw=I | chem=I | blosum=I | {'I': 24, 'V': 12, 'A': 2, 'H': 1, 'N': 1}
+Pos  103 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=R | chem=R | blosum=R | {'R': 40}
+Pos  104 | identity 0.800 | gap 0.000 | entropy 0.831 | raw=I | chem=I | blosum=I | {'I': 32, 'F': 1, 'V': 7}
+Pos  105 | identity 0.900 | gap 0.000 | entropy 0.469 | raw=I | chem=I | blosum=I | {'I': 36, 'L': 4}
+Pos  106 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=G | chem=G | blosum=G | {'G': 40}
+Pos  107 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=F | chem=F | blosum=F | {'F': 40}
+Pos  108 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=D | chem=D | blosum=D | {'D': 39, 'N': 1}
+Pos  109 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=N | chem=N | blosum=N | {'N': 39, 'D': 1}
+Pos  110 | identity 0.575 | gap 0.000 | entropy 1.964 | raw=V | chem=V | blosum=V | {'T': 3, 'V': 23, 'N': 4, 'K': 1, 'I': 6, 'M': 1, 'L': 2}
+Pos  111 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=R | chem=R | blosum=R | {'R': 37, 'K': 3}
+Pos  112 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=Q | chem=Q | blosum=Q | {'Q': 39, 'E': 1}
+Pos  113 | identity 0.925 | gap 0.000 | entropy 0.384 | raw=V | chem=V | blosum=V | {'V': 37, 'T': 3}
+Pos  114 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=Q | chem=Q | blosum=Q | {'Q': 40}
+Pos  115 | identity 0.950 | gap 0.000 | entropy 0.286 | raw=C | chem=C | blosum=C | {'C': 38, 'L': 2}
+Pos  116 | identity 0.750 | gap 0.000 | entropy 0.811 | raw=I | chem=I | blosum=I | {'I': 30, 'V': 10}
+Pos  117 | identity 0.875 | gap 0.000 | entropy 0.634 | raw=S | chem=S | blosum=S | {'S': 35, 'M': 4, 'A': 1}
+Pos  118 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=F | chem=F | blosum=F | {'F': 40}
+Pos  119 | identity 0.975 | gap 0.000 | entropy 0.169 | raw=I | chem=I | blosum=I | {'I': 39, 'L': 1}
+Pos  120 | identity 0.950 | gap 0.000 | entropy 0.336 | raw=A | chem=A | blosum=A | {'A': 38, 'V': 1, 'T': 1}
+Pos  121 | identity 0.775 | gap 0.000 | entropy 1.142 | raw=Y | chem=Y | blosum=Y | {'Y': 31, 'H': 1, 'S': 1, 'A': 2, 'F': 5}
+Pos  122 | identity 0.900 | gap 0.000 | entropy 0.550 | raw=K | chem=K | blosum=K | {'K': 36, 'T': 1, 'R': 3}
+Pos  123 | identity 1.000 | gap 0.000 | entropy 0.000 | raw=P | chem=P | blosum=P | {'P': 40}
+Pos  124 | identity 0.550 | gap 0.000 | entropy 2.231 | raw=P | chem=P | blosum=P | {'P': 22, 'E': 6, 'A': 4, 'K': 2, 'D': 1, 'G': 1, 'Q': 1, 'S': 1, 'T': 1, 'H': 1}
+Pos  125 | identity 0.744 | gap 0.025 | entropy 1.417 | raw=G | chem=G | blosum=G | {'S': 4, 'G': 29, 'T': 2, 'A': 1, 'V': 1, 'R': 1, 'Q': 1}
+Pos  126 | identity 0.263 | gap 0.050 | entropy 2.794 | raw=Y | chem=Y | blosum=Y | {'F': 7, 'Y': 10, 'V': 3, 'T': 1, 'L': 1, 'A': 1, 'C': 8, 'S': 5, 'N': 1, 'K': 1}
+Pos  127 | identity 0.455 | gap 0.450 | entropy 2.552 | raw=E | chem=E | blosum=E | {'T': 3, 'K': 1, 'L': 2, 'Y': 2, 'E': 10, 'Q': 1, 'D': 1, 'V': 1, 'G': 1}
+Pos  128 | identity 0.571 | gap 0.650 | entropy 1.807 | raw=E | chem=E | blosum=E | {'E': 8, 'G': 1, 'F': 2, 'T': 2, 'V': 1}
+Pos  129 | identity 0.538 | gap 0.675 | entropy 2.035 | raw=S | chem=S | blosum=S | {'A': 2, 'S': 7, 'L': 1, 'T': 1, 'Y': 1, 'F': 1}
+Pos  130 | gap 0.725 | skipped
+Pos  131 | gap 0.750 | skipped
+Pos  132 | gap 0.775 | skipped
+Pos  133 | gap 0.900 | skipped
+Pos  134 | gap 0.975 | skipped
+Pos  135 | gap 0.975 | skipped

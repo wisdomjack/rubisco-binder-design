@@ -1,0 +1,39 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   270:
+HEADER 0  - Pocket Score                      : -0.1699
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    17
+HEADER 3  - Mean alpha-sphere radius          : 3.9529
+HEADER 4  - Mean alpha-sphere SA              : 0.4484
+HEADER 5  - Mean B-factor                     : 0.9059
+HEADER 6  - Hydrophobicity Score              : -10.0000
+HEADER 7  - Polarity Score                    :     3
+HEADER 8  - Volume Score                      : 3.6667
+HEADER 9  - Real volume (approximation)       : 179.8054
+HEADER 10 - Charge Score                      :     1
+HEADER 11 - Local hydrophobic density Score   : 9.0000
+HEADER 12 - Number of apolar alpha sphere     :    10
+HEADER 13 - Proportion of apolar alpha sphere : 0.5882
+ATOM      1    O STP   270     -41.247 -15.126  28.695    0.00     4.03
+ATOM      2    O STP   270     -42.337 -14.824  29.589    0.00     4.37
+ATOM      3    C STP   270     -41.100 -13.945  29.140    0.00     3.90
+ATOM      4    O STP   270     -41.701 -14.403  29.171    0.00     4.16
+ATOM      5    O STP   270     -41.272 -14.864  28.760    0.00     4.03
+ATOM      6    C STP   270     -41.229 -15.117  28.671    0.00     4.02
+ATOM      7    C STP   270     -41.270 -14.866  28.758    0.00     4.03
+ATOM      8    O STP   270     -42.801 -15.517  29.825    0.00     4.64
+ATOM      9    C STP   270     -40.554 -13.441  29.619    0.00     3.51
+ATOM     10    C STP   270     -40.736 -13.498  29.064    0.00     3.70
+ATOM     11    C STP   270     -40.722 -13.242  28.980    0.00     3.56
+ATOM     12    O STP   270     -41.536 -15.849  28.792    0.00     4.17
+ATOM     13    O STP   270     -42.182 -15.867  29.288    0.00     4.37
+ATOM     14    C STP   270     -40.657 -16.388  27.632    0.00     3.57
+ATOM     15    C STP   270     -40.834 -16.203  27.688    0.00     3.71
+ATOM     16    C STP   270     -41.232 -16.329  27.332    0.00     3.52
+ATOM     17    C STP   270     -41.146 -16.003  28.080    0.00     3.89
+TER
+END

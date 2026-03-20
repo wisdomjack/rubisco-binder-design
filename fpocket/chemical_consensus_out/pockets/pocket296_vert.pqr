@@ -1,0 +1,85 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   296:
+HEADER 0  - Pocket Score                      : -0.2079
+HEADER 1  - Drug Score                        : 0.0010
+HEADER 2  - Number of V. Vertices             :    63
+HEADER 3  - Mean alpha-sphere radius          : 4.6537
+HEADER 4  - Mean alpha-sphere SA              : 0.5421
+HEADER 5  - Mean B-factor                     : 0.9058
+HEADER 6  - Hydrophobicity Score              : 1.2727
+HEADER 7  - Polarity Score                    :     8
+HEADER 8  - Volume Score                      : 4.1818
+HEADER 9  - Real volume (approximation)       : 1135.8729
+HEADER 10 - Charge Score                      :    -1
+HEADER 11 - Local hydrophobic density Score   : 16.3000
+HEADER 12 - Number of apolar alpha sphere     :    20
+HEADER 13 - Proportion of apolar alpha sphere : 0.3175
+ATOM      1    C STP   296     -26.309 -41.759   6.199    0.00     4.60
+ATOM      2    O STP   296     -27.577 -43.570   6.593    0.00     5.70
+ATOM      3    O STP   296     -27.549 -43.456   6.639    0.00     5.61
+ATOM      4    O STP   296     -25.044 -41.434   4.694    0.00     5.38
+ATOM      5    O STP   296     -19.846 -44.757   3.484    0.00     4.85
+ATOM      6    C STP   296     -25.230 -40.531   4.380    0.00     4.81
+ATOM      7    O STP   296     -27.073 -41.759   8.440    0.00     3.80
+ATOM      8    O STP   296     -26.237 -41.609   6.269    0.00     4.48
+ATOM      9    O STP   296     -24.610 -40.595   5.041    0.00     4.96
+ATOM     10    O STP   296     -22.089 -41.504   5.146    0.00     4.98
+ATOM     11    O STP   296     -22.265 -42.519   6.402    0.00     3.98
+ATOM     12    O STP   296     -17.705 -42.213   4.333    0.00     3.87
+ATOM     13    O STP   296     -18.796 -41.723   5.137    0.00     3.81
+ATOM     14    C STP   296     -19.403 -42.745   3.467    0.00     4.91
+ATOM     15    O STP   296     -17.903 -42.216   4.285    0.00     4.00
+ATOM     16    O STP   296     -18.326 -42.328   4.436    0.00     4.17
+ATOM     17    O STP   296     -18.792 -42.564   3.937    0.00     4.50
+ATOM     18    O STP   296     -17.594 -42.051   4.235    0.00     3.83
+ATOM     19    O STP   296     -23.956 -39.995   5.344    0.00     4.68
+ATOM     20    O STP   296     -25.064 -39.235   4.385    0.00     4.26
+ATOM     21    O STP   296     -17.556 -42.241   4.438    0.00     3.73
+ATOM     22    C STP   296     -20.485 -43.188   3.401    0.00     5.08
+ATOM     23    O STP   296     -21.387 -42.632   3.883    0.00     5.10
+ATOM     24    O STP   296     -23.047 -42.716   4.591    0.00     5.55
+ATOM     25    C STP   296     -26.320 -40.795   2.174    0.00     4.86
+ATOM     26    O STP   296     -25.256 -42.210   4.404    0.00     5.81
+ATOM     27    C STP   296     -26.629 -42.358   3.273    0.00     5.57
+ATOM     28    C STP   296     -25.706 -41.747   3.707    0.00     5.43
+ATOM     29    C STP   296     -21.239 -39.917   6.630    0.00     4.19
+ATOM     30    C STP   296     -21.366 -40.376   6.261    0.00     4.32
+ATOM     31    C STP   296     -20.331 -41.264   5.360    0.00     4.14
+ATOM     32    C STP   296     -20.042 -41.332   5.261    0.00     4.08
+ATOM     33    O STP   296     -21.991 -41.317   5.223    0.00     4.93
+ATOM     34    O STP   296     -21.878 -41.428   5.110    0.00     4.92
+ATOM     35    O STP   296     -20.937 -42.101   4.112    0.00     4.89
+ATOM     36    C STP   296     -20.204 -42.248   3.897    0.00     4.79
+ATOM     37    O STP   296     -26.377 -39.984   1.839    0.00     4.50
+ATOM     38    C STP   296     -28.248 -41.438  -0.549    0.00     5.35
+ATOM     39    C STP   296     -28.252 -41.442  -0.549    0.00     5.35
+ATOM     40    C STP   296     -28.046 -41.884   0.600    0.00     5.31
+ATOM     41    C STP   296     -28.225 -41.424  -0.532    0.00     5.34
+ATOM     42    C STP   296     -28.217 -41.415  -0.530    0.00     5.33
+ATOM     43    O STP   296     -26.475 -40.436   1.571    0.00     4.75
+ATOM     44    O STP   296     -26.499 -40.131   1.022    0.00     4.65
+ATOM     45    O STP   296     -22.824 -39.967   5.535    0.00     4.55
+ATOM     46    O STP   296     -22.557 -39.970   5.577    0.00     4.57
+ATOM     47    C STP   296     -22.544 -39.960   5.593    0.00     4.56
+ATOM     48    O STP   296     -23.945 -39.942   5.349    0.00     4.66
+ATOM     49    O STP   296     -24.424 -39.691   5.118    0.00     4.58
+ATOM     50    O STP   296     -24.490 -39.572   5.034    0.00     4.51
+ATOM     51    O STP   296     -24.500 -39.444   5.258    0.00     4.36
+ATOM     52    O STP   296     -17.293 -41.275   2.024    0.00     3.75
+ATOM     53    O STP   296     -18.850 -45.068   2.938    0.00     4.22
+ATOM     54    O STP   296     -19.503 -44.386   3.233    0.00     4.69
+ATOM     55    O STP   296     -19.505 -43.489   3.404    0.00     4.85
+ATOM     56    O STP   296     -19.669 -43.911   3.366    0.00     4.88
+ATOM     57    O STP   296     -19.643 -42.643   1.335    0.00     3.65
+ATOM     58    O STP   296     -19.483 -42.871   3.408    0.00     4.94
+ATOM     59    O STP   296     -19.882 -43.156   3.313    0.00     5.03
+ATOM     60    C STP   296     -19.002 -42.457   3.110    0.00     4.58
+ATOM     61    O STP   296     -18.252 -41.772   2.404    0.00     4.01
+ATOM     62    C STP   296     -17.464 -41.460   2.151    0.00     3.82
+ATOM     63    O STP   296     -17.442 -41.423   2.110    0.00     3.81
+TER
+END

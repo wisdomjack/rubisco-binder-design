@@ -1,0 +1,37 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   291:
+HEADER 0  - Pocket Score                      : -0.1979
+HEADER 1  - Drug Score                        : 0.0007
+HEADER 2  - Number of V. Vertices             :    15
+HEADER 3  - Mean alpha-sphere radius          : 4.9137
+HEADER 4  - Mean alpha-sphere SA              : 0.6597
+HEADER 5  - Mean B-factor                     : 0.6475
+HEADER 6  - Hydrophobicity Score              : -5.0000
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Volume Score                      : 4.1667
+HEADER 9  - Real volume (approximation)       : 486.5088
+HEADER 10 - Charge Score                      :    -2
+HEADER 11 - Local hydrophobic density Score   : 7.0000
+HEADER 12 - Number of apolar alpha sphere     :     8
+HEADER 13 - Proportion of apolar alpha sphere : 0.5333
+ATOM      1    C STP   291      -9.991  47.612  32.975    0.00     5.93
+ATOM      2    C STP   291      -9.991  47.733  32.447    0.00     5.61
+ATOM      3    O STP   291      -9.680  47.726  32.407    0.00     5.71
+ATOM      4    C STP   291      -8.307  48.438  31.612    0.00     5.58
+ATOM      5    O STP   291      -8.817  48.133  31.573    0.00     5.52
+ATOM      6    C STP   291      -7.907  47.199  30.478    0.00     4.40
+ATOM      7    O STP   291     -12.102  47.411  31.726    0.00     4.39
+ATOM      8    C STP   291      -8.348  46.750  30.299    0.00     4.25
+ATOM      9    O STP   291      -9.210  47.335  31.321    0.00     5.04
+ATOM     10    O STP   291      -8.947  47.572  31.184    0.00     5.10
+ATOM     11    O STP   291      -9.139  46.017  30.646    0.00     4.08
+ATOM     12    O STP   291      -8.441  46.732  30.322    0.00     4.27
+ATOM     13    C STP   291      -8.394  46.637  30.197    0.00     4.17
+ATOM     14    C STP   291     -10.344  46.897  33.383    0.00     5.79
+ATOM     15    C STP   291      -9.337  45.492  30.824    0.00     3.86
+TER
+END

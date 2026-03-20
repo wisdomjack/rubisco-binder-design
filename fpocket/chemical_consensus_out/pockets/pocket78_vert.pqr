@@ -1,0 +1,55 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    78:
+HEADER 0  - Pocket Score                      : -0.0112
+HEADER 1  - Drug Score                        : 0.0009
+HEADER 2  - Number of V. Vertices             :    33
+HEADER 3  - Mean alpha-sphere radius          : 4.4147
+HEADER 4  - Mean alpha-sphere SA              : 0.6900
+HEADER 5  - Mean B-factor                     : 0.8904
+HEADER 6  - Hydrophobicity Score              : -16.2857
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Volume Score                      : 5.1429
+HEADER 9  - Real volume (approximation)       : 954.5219
+HEADER 10 - Charge Score                      :     1
+HEADER 11 - Local hydrophobic density Score   : 10.2857
+HEADER 12 - Number of apolar alpha sphere     :    14
+HEADER 13 - Proportion of apolar alpha sphere : 0.4242
+ATOM      1    C STP    78      21.811 -34.022  48.567    0.00     4.19
+ATOM      2    O STP    78      21.422 -42.500  46.432    0.00     4.97
+ATOM      3    C STP    78      20.560 -41.717  47.086    0.00     5.11
+ATOM      4    C STP    78      22.335 -35.624  49.766    0.00     4.45
+ATOM      5    C STP    78      21.545 -35.946  48.095    0.00     3.58
+ATOM      6    C STP    78      20.924 -40.326  46.501    0.00     4.35
+ATOM      7    O STP    78      21.763 -37.511  49.602    0.00     4.21
+ATOM      8    O STP    78      20.999 -38.699  48.541    0.00     4.17
+ATOM      9    C STP    78      25.188 -31.926  48.430    0.00     4.89
+ATOM     10    O STP    78      21.536 -35.959  48.083    0.00     3.58
+ATOM     11    C STP    78      20.894 -39.493  46.530    0.00     3.88
+ATOM     12    O STP    78      20.935 -38.042  47.974    0.00     3.76
+ATOM     13    O STP    78      21.068 -39.483  45.906    0.00     3.71
+ATOM     14    C STP    78      21.243 -39.435  45.536    0.00     3.58
+ATOM     15    C STP    78      20.897 -39.989  46.304    0.00     4.14
+ATOM     16    C STP    78      20.898 -40.011  46.303    0.00     4.16
+ATOM     17    C STP    78      19.633 -41.235  46.246    0.00     4.17
+ATOM     18    C STP    78      20.444 -41.698  47.005    0.00     5.02
+ATOM     19    O STP    78      21.171 -31.596  50.253    0.00     5.47
+ATOM     20    O STP    78      21.493 -33.682  48.322    0.00     4.08
+ATOM     21    O STP    78      20.991 -34.203  47.668    0.00     3.53
+ATOM     22    O STP    78      21.440 -34.137  48.068    0.00     3.86
+ATOM     23    O STP    78      21.258 -34.367  47.811    0.00     3.65
+ATOM     24    O STP    78      24.682 -31.726  47.344    0.00     3.97
+ATOM     25    O STP    78      21.722 -32.988  48.086    0.00     3.91
+ATOM     26    O STP    78      21.690 -32.974  47.989    0.00     3.82
+ATOM     27    O STP    78      22.012 -32.815  49.317    0.00     5.02
+ATOM     28    O STP    78      21.943 -31.751  50.330    0.00     5.86
+ATOM     29    O STP    78      22.567 -32.543  50.108    0.00     5.76
+ATOM     30    C STP    78      24.025 -31.926  49.599    0.00     5.55
+ATOM     31    C STP    78      20.104 -30.912  48.729    0.00     3.92
+ATOM     32    O STP    78      19.105 -31.219  51.937    0.00     5.70
+ATOM     33    O STP    78      20.601 -31.307  51.041    0.00     5.68
+TER
+END

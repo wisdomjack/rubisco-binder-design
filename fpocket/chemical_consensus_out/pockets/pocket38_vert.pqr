@@ -1,0 +1,62 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket    38:
+HEADER 0  - Pocket Score                      : 0.0366
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    40
+HEADER 3  - Mean alpha-sphere radius          : 4.3233
+HEADER 4  - Mean alpha-sphere SA              : 0.6120
+HEADER 5  - Mean B-factor                     : 0.9341
+HEADER 6  - Hydrophobicity Score              : -8.8462
+HEADER 7  - Polarity Score                    :    11
+HEADER 8  - Volume Score                      : 3.3077
+HEADER 9  - Real volume (approximation)       : 750.7889
+HEADER 10 - Charge Score                      :    -4
+HEADER 11 - Local hydrophobic density Score   : 2.3333
+HEADER 12 - Number of apolar alpha sphere     :     6
+HEADER 13 - Proportion of apolar alpha sphere : 0.1500
+ATOM      1    O STP    38      -6.553 -15.507  -1.699    0.00     4.71
+ATOM      2    O STP    38      -6.636 -15.888  -1.835    0.00     4.64
+ATOM      3    O STP    38      -6.571 -15.602  -3.817    0.00     4.29
+ATOM      4    O STP    38      -6.072 -16.540  -4.312    0.00     3.68
+ATOM      5    O STP    38      -6.390 -14.772  -4.273    0.00     4.49
+ATOM      6    O STP    38      -6.464 -15.114  -4.171    0.00     4.39
+ATOM      7    O STP    38      -6.439 -17.640   2.498    0.00     5.58
+ATOM      8    O STP    38      -5.475 -18.059   0.376    0.00     4.14
+ATOM      9    O STP    38      -5.693 -17.571   0.111    0.00     4.23
+ATOM     10    O STP    38      -6.761 -16.029  -1.180    0.00     4.85
+ATOM     11    O STP    38      -6.759 -16.038  -1.216    0.00     4.84
+ATOM     12    O STP    38      -5.784 -17.398  -0.283    0.00     4.15
+ATOM     13    O STP    38      -8.136 -13.897  -5.678    0.00     3.56
+ATOM     14    C STP    38      -8.142 -14.075  -5.712    0.00     3.53
+ATOM     15    O STP    38      -5.190 -22.952   5.434    0.00     4.48
+ATOM     16    O STP    38      -5.064 -22.929   5.565    0.00     4.38
+ATOM     17    O STP    38      -5.711 -16.075  -5.084    0.00     3.64
+ATOM     18    O STP    38      -5.941 -15.606  -4.869    0.00     3.89
+ATOM     19    C STP    38      -5.970 -15.240  -4.832    0.00     4.04
+ATOM     20    O STP    38      -5.643 -22.521   3.729    0.00     4.85
+ATOM     21    O STP    38      -5.630 -22.509   3.720    0.00     4.84
+ATOM     22    O STP    38      -8.187 -23.224   3.030    0.00     4.63
+ATOM     23    O STP    38      -6.638 -21.957   3.792    0.00     5.31
+ATOM     24    O STP    38      -6.698 -19.086   2.897    0.00     5.25
+ATOM     25    O STP    38      -6.506 -21.258   3.455    0.00     5.06
+ATOM     26    O STP    38      -6.081 -20.022   1.468    0.00     3.83
+ATOM     27    O STP    38      -5.249 -22.232   3.619    0.00     4.45
+ATOM     28    O STP    38      -6.832 -23.638   2.387    0.00     4.28
+ATOM     29    O STP    38      -6.642 -23.583   2.394    0.00     4.31
+ATOM     30    O STP    38      -4.028 -23.563   2.790    0.00     3.87
+ATOM     31    C STP    38      -4.250 -23.568   3.092    0.00     4.16
+ATOM     32    C STP    38      -4.246 -23.567   3.091    0.00     4.15
+ATOM     33    C STP    38      -4.501 -23.650   3.245    0.00     4.34
+ATOM     34    O STP    38      -5.008 -24.224   2.536    0.00     4.00
+ATOM     35    O STP    38      -3.897 -23.540   2.906    0.00     3.88
+ATOM     36    O STP    38      -3.901 -23.542   2.906    0.00     3.88
+ATOM     37    O STP    38      -3.906 -23.542   2.911    0.00     3.89
+ATOM     38    C STP    38      -4.060 -23.599   3.078    0.00     4.03
+ATOM     39    O STP    38      -4.203 -23.941   3.549    0.00     4.16
+ATOM     40    O STP    38      -4.320 -23.827   3.393    0.00     4.24
+TER
+END

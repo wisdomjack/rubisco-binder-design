@@ -1,0 +1,42 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   315:
+HEADER 0  - Pocket Score                      : -0.2341
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of V. Vertices             :    20
+HEADER 3  - Mean alpha-sphere radius          : 4.3508
+HEADER 4  - Mean alpha-sphere SA              : 0.5053
+HEADER 5  - Mean B-factor                     : 0.7850
+HEADER 6  - Hydrophobicity Score              : 6.7143
+HEADER 7  - Polarity Score                    :     5
+HEADER 8  - Volume Score                      : 3.8571
+HEADER 9  - Real volume (approximation)       : 290.1328
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 4.0000
+HEADER 12 - Number of apolar alpha sphere     :     5
+HEADER 13 - Proportion of apolar alpha sphere : 0.2500
+ATOM      1    C STP   315     -46.763 -18.297  26.588    0.00     4.31
+ATOM      2    O STP   315     -46.423 -17.524  26.714    0.00     4.57
+ATOM      3    O STP   315     -48.018 -20.385  28.664    0.00     4.81
+ATOM      4    O STP   315     -47.323 -19.039  27.679    0.00     4.50
+ATOM      5    O STP   315     -47.532 -18.534  28.426    0.00     4.63
+ATOM      6    C STP   315     -46.526 -18.138  26.781    0.00     4.56
+ATOM      7    O STP   315     -46.745 -16.395  25.676    0.00     3.92
+ATOM      8    O STP   315     -44.369 -17.530  26.926    0.00     3.66
+ATOM      9    O STP   315     -46.161 -17.230  25.919    0.00     4.02
+ATOM     10    C STP   315     -46.499 -18.059  26.784    0.00     4.57
+ATOM     11    C STP   315     -46.502 -18.140  26.765    0.00     4.55
+ATOM     12    O STP   315     -46.416 -17.534  26.697    0.00     4.57
+ATOM     13    C STP   315     -46.429 -17.610  26.715    0.00     4.57
+ATOM     14    O STP   315     -46.416 -17.542  26.718    0.00     4.58
+ATOM     15    O STP   315     -46.406 -17.566  26.783    0.00     4.61
+ATOM     16    O STP   315     -46.387 -17.606  26.891    0.00     4.66
+ATOM     17    O STP   315     -46.396 -17.628  26.886    0.00     4.66
+ATOM     18    O STP   315     -45.304 -19.604  26.435    0.00     3.54
+ATOM     19    O STP   315     -46.923 -15.964  25.577    0.00     3.87
+ATOM     20    O STP   315     -46.888 -16.008  25.497    0.00     3.86
+TER
+END

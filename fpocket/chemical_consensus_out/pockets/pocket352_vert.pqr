@@ -1,0 +1,38 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   352:
+HEADER 0  - Pocket Score                      : -0.3475
+HEADER 1  - Drug Score                        : 0.0000
+HEADER 2  - Number of V. Vertices             :    16
+HEADER 3  - Mean alpha-sphere radius          : 5.5091
+HEADER 4  - Mean alpha-sphere SA              : 0.5818
+HEADER 5  - Mean B-factor                     : 0.7554
+HEADER 6  - Hydrophobicity Score              : -22.5000
+HEADER 7  - Polarity Score                    :     2
+HEADER 8  - Volume Score                      : 5.5000
+HEADER 9  - Real volume (approximation)       : 397.5555
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 0.0000
+HEADER 12 - Number of apolar alpha sphere     :     0
+HEADER 13 - Proportion of apolar alpha sphere : 0.0000
+ATOM      1    O STP   352     -17.662   2.040 -23.402    0.00     5.97
+ATOM      2    O STP   352     -16.912   1.243 -24.450    0.00     5.02
+ATOM      3    O STP   352     -16.716   3.070 -23.602    0.00     5.06
+ATOM      4    O STP   352     -17.639   2.069 -23.405    0.00     5.95
+ATOM      5    O STP   352     -17.129   3.220 -23.943    0.00     5.07
+ATOM      6    O STP   352     -17.657   2.040 -23.392    0.00     5.97
+ATOM      7    O STP   352     -17.654   2.041 -23.388    0.00     5.97
+ATOM      8    O STP   352     -18.659   2.797 -22.833    0.00     5.08
+ATOM      9    O STP   352     -18.256   2.852 -22.452    0.00     5.07
+ATOM     10    O STP   352     -16.649   1.043 -23.962    0.00     5.01
+ATOM     11    O STP   352     -17.649   1.999 -23.388    0.00     5.97
+ATOM     12    O STP   352     -17.666   1.997 -23.423    0.00     5.97
+ATOM     13    O STP   352     -17.658   1.987 -23.435    0.00     5.96
+ATOM     14    O STP   352     -17.669   1.995 -23.429    0.00     5.97
+ATOM     15    O STP   352     -18.257   0.891 -22.724    0.00     5.05
+ATOM     16    O STP   352     -18.513   0.870 -23.283    0.00     5.06
+TER
+END

@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Large outputs
+*.pdb
+*.trb
+*.npz
+*.pt
+*.tar
+*.tar.gz
+
+# Experiment folders
+experiment*/
+outputs/
+logs/
+
+# OS
+.DS_Store

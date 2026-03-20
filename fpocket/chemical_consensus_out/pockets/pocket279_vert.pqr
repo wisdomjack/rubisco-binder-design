@@ -1,0 +1,67 @@
+HEADER
+HEADER This is a pqr format file writen by the programm fpocket.                 
+HEADER It represent the voronoi vertices of a single pocket found by the         
+HEADER algorithm.                                                                
+HEADER                                                                           
+HEADER Information about the pocket   279:
+HEADER 0  - Pocket Score                      : -0.1785
+HEADER 1  - Drug Score                        : 0.0002
+HEADER 2  - Number of V. Vertices             :    45
+HEADER 3  - Mean alpha-sphere radius          : 4.5198
+HEADER 4  - Mean alpha-sphere SA              : 0.6119
+HEADER 5  - Mean B-factor                     : 0.2197
+HEADER 6  - Hydrophobicity Score              : 2.0000
+HEADER 7  - Polarity Score                    :     6
+HEADER 8  - Volume Score                      : 3.2500
+HEADER 9  - Real volume (approximation)       : 1303.1254
+HEADER 10 - Charge Score                      :     0
+HEADER 11 - Local hydrophobic density Score   : 5.8000
+HEADER 12 - Number of apolar alpha sphere     :    10
+HEADER 13 - Proportion of apolar alpha sphere : 0.2222
+ATOM      1    O STP   279     -50.731 -39.500 -15.122    0.00     5.48
+ATOM      2    O STP   279     -52.589 -39.385 -13.398    0.00     4.75
+ATOM      3    O STP   279     -53.099 -39.398 -14.454    0.00     4.32
+ATOM      4    C STP   279     -58.193 -41.694  -9.978    0.00     4.11
+ATOM      5    O STP   279     -57.151 -40.350  -8.833    0.00     5.32
+ATOM      6    C STP   279     -55.477 -39.531 -11.055    0.00     4.21
+ATOM      7    O STP   279     -55.686 -39.452 -10.230    0.00     4.75
+ATOM      8    O STP   279     -53.212 -39.407 -14.895    0.00     4.25
+ATOM      9    O STP   279     -53.311 -39.363 -14.839    0.00     4.18
+ATOM     10    O STP   279     -51.419 -39.513 -16.413    0.00     5.23
+ATOM     11    O STP   279     -59.210 -39.747  -8.142    0.00     5.12
+ATOM     12    O STP   279     -64.026 -39.397  -9.035    0.00     5.67
+ATOM     13    O STP   279     -58.628 -41.023  -9.700    0.00     4.38
+ATOM     14    O STP   279     -58.431 -40.456  -9.292    0.00     4.80
+ATOM     15    O STP   279     -60.327 -39.772  -8.721    0.00     4.86
+ATOM     16    O STP   279     -61.452 -40.235  -9.125    0.00     4.45
+ATOM     17    C STP   279     -62.969 -41.163 -10.449    0.00     3.85
+ATOM     18    O STP   279     -63.211 -41.124 -10.535    0.00     3.92
+ATOM     19    O STP   279     -63.252 -41.072 -10.441    0.00     4.01
+ATOM     20    C STP   279     -61.203 -40.455  -9.268    0.00     4.27
+ATOM     21    O STP   279     -59.410 -40.646  -9.293    0.00     4.42
+ATOM     22    O STP   279     -59.297 -40.172  -8.944    0.00     4.79
+ATOM     23    O STP   279     -52.603 -39.415 -13.195    0.00     4.79
+ATOM     24    O STP   279     -52.889 -39.485 -13.308    0.00     4.58
+ATOM     25    C STP   279     -53.505 -39.558 -11.854    0.00     4.65
+ATOM     26    O STP   279     -54.330 -40.237 -16.887    0.00     3.77
+ATOM     27    C STP   279     -54.225 -39.976 -16.623    0.00     3.78
+ATOM     28    C STP   279     -54.077 -39.997 -16.605    0.00     3.86
+ATOM     29    C STP   279     -51.467 -39.574 -16.612    0.00     5.21
+ATOM     30    C STP   279     -51.560 -38.439 -17.085    0.00     4.56
+ATOM     31    O STP   279     -58.602 -39.901 -10.763    0.00     3.52
+ATOM     32    O STP   279     -56.207 -39.271 -10.971    0.00     3.99
+ATOM     33    O STP   279     -51.341 -39.761 -12.748    0.00     5.33
+ATOM     34    O STP   279     -52.864 -39.400 -11.542    0.00     5.14
+ATOM     35    O STP   279     -53.344 -39.497 -11.300    0.00     5.00
+ATOM     36    O STP   279     -51.230 -40.843 -18.471    0.00     5.50
+ATOM     37    O STP   279     -51.226 -40.771 -18.370    0.00     5.47
+ATOM     38    O STP   279     -50.688 -41.743 -19.167    0.00     5.97
+ATOM     39    O STP   279     -51.580 -38.167 -17.226    0.00     4.43
+ATOM     40    O STP   279     -51.183 -36.566 -17.084    0.00     3.83
+ATOM     41    O STP   279     -50.743 -36.508 -16.276    0.00     3.87
+ATOM     42    O STP   279     -50.105 -35.846 -15.920    0.00     3.72
+ATOM     43    O STP   279     -51.956 -36.943 -17.773    0.00     3.84
+ATOM     44    O STP   279     -52.015 -36.346 -17.920    0.00     3.70
+ATOM     45    C STP   279     -52.058 -37.003 -17.707    0.00     3.76
+TER
+END
