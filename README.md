@@ -1,5 +1,4 @@
 
-<img width="3400" height="3400" alt="rubisco_phylogeny_circular" src="https://github.com/user-attachments/assets/31683cc3-562d-4ad8-a7e9-73ca1e4d6d5e" />
 
 ## Phylogenetic Analysis of Rubisco (rbcL)
 
@@ -11,3 +10,5 @@ The resulting tree was rooted using Selaginella moellendorffii, a lycophyte that
 
 The topology reveals a clear and well-supported separation between monocot and dicot lineages, consistent with established angiosperm phylogeny. Monocot species, primarily grasses and related taxa, cluster distinctly from dicot species, which include a diverse set of eudicot crops and model organisms. The high proportion of conserved sites in the alignment (~74%) reflects the strong evolutionary constraint on Rubisco, a central enzyme in carbon fixation. Notably, several closely related species exhibit identical sequences, which were retained to preserve biological context rather than artificially reducing redundancy.
 
+
+<img width="3400" height="3400" alt="rubisco_phylogeny_circular" src="https://github.com/user-attachments/assets/31683cc3-562d-4ad8-a7e9-73ca1e4d6d5e" />
