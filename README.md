@@ -1,4 +1,8 @@
 
+![phylogenetic_binder_comp_design_figures 001](https://github.com/user-attachments/assets/a8f3d4dd-d727-4677-8b5e-c9b65cec25cd)
+
+### Firgure 1
+Assembly pathway of plant Rubisco. RbcL monomers dimerize and further assemble into an RbcL₈ core, which is then capped by eight RbcS subunits to form the mature L₈S₈ holoenzyme. Top and side views of the holoenzyme are shown (right). RbcL, green; RbcS, lavender.
 
 ## Phylogenetic Analysis of Rubisco (rbcL)
 
