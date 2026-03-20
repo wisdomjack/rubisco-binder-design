@@ -1,4 +1,5 @@
-[rubisco_phylogeny_circular.pdf](https://github.com/user-attachments/files/26150716/rubisco_phylogeny_circular.pdf)
+
+<img width="3400" height="3400" alt="rubisco_phylogeny_circular" src="https://github.com/user-attachments/assets/31683cc3-562d-4ad8-a7e9-73ca1e4d6d5e" />
 
 
 
