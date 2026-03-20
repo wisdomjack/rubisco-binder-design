@@ -1,7 +1,7 @@
 
 <img width="3400" height="3400" alt="rubisco_phylogeny_circular" src="https://github.com/user-attachments/assets/31683cc3-562d-4ad8-a7e9-73ca1e4d6d5e" />
 
-
+## Phylogenetic Analysis of Rubisco (rbcL)
 
 A maximum-likelihood phylogeny of the Rubisco large subunit (rbcL) was reconstructed to examine evolutionary relationships among representative monocot and dicot plant species. Protein sequences were aligned using MAFFT (L-INS-i algorithm; --localpair --maxiterate 1000), which incorporates local pairwise alignment information and iterative refinement to maximize alignment accuracy for moderately divergent sequences.
 
