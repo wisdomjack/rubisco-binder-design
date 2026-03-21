@@ -1,8 +1,8 @@
 
 ![phylogenetic_binder_comp_design_figures 001](https://github.com/user-attachments/assets/c6864535-ba8b-43b4-8a54-de53a3b2b2ed)
 
-### Firgure 1
-Assembly pathway of plant Rubisco. RbcL monomers dimerize and further assemble into an RbcL₈ core, which is then capped by eight RbcS subunits to form the mature L₈S₈ holoenzyme. Top and side views of the holoenzyme are shown (right). RbcL, green; RbcS, lavender.
+**Firgure 1 Assembly pathway of plant Rubisco.**
+RbcL monomers dimerize and further assemble into an RbcL₈ core, which is then capped by eight RbcS subunits to form the mature L₈S₈ holoenzyme. Top and side views of the holoenzyme are shown (right). RbcL, green; RbcS, lavender.
 
 
 ## Phylogenetic Analysis of Rubisco (rbcL)
@@ -19,7 +19,7 @@ The topology reveals a clear and well-supported separation between monocot and d
 <img width="3400" height="3400" alt="rubisco_phylogeny_circular" src="https://github.com/user-attachments/assets/bea4bd3e-93f0-407a-84b7-341cae650230" />
 
 
-
+**Firgure 2 Phylogenetic tree of angiosperm Rubisco RbcL subunit.**
 
 
 
@@ -93,14 +93,14 @@ The use of a chemical-property consensus sequence as the folding template, rathe
 
 ---
 
-## Figure Legend
 
-**Figure X. Evolutionary conservation of the Rubisco holoenzyme surface.**
-*(Left)* Surface representation of the consensus L₈S₈ Rubisco holoenzyme showing the RbcL–RbcS–RbcL trimer interface. Subunits are colored by identity: RbcL, green; RbcS, lavender. The binder pocket at the intersubunit interface is indicated.
-*(Right)* The same view colored by group Shannon entropy. Color scale ranges from mint green (entropy = 0 bits, fully conserved) to hot pink (entropy = 2.06 bits, maximally variable), normalized to the global observed maximum across both subunits. Entropy was computed over six chemical property groups (hydrophobic, aromatic, polar, positive, negative, special) from a 40-species alignment of land plant Rubisco sequences. The pocket floor is predominantly conserved, consistent with its suitability as a minibinder target.
+
 
 
 
 
 <img width="1920" height="1080" alt="conservation 001" src="https://github.com/user-attachments/assets/fad83e48-cfff-4e86-b138-31b57bddc360" />
 
+**Figure 3. Evolutionary conservation of the Rubisco holoenzyme surface.**
+*(Left)* Surface representation of the consensus L₈S₈ Rubisco holoenzyme showing the RbcL–RbcS–RbcL trimer interface. Subunits are colored by identity: RbcL, green; RbcS, lavender. The binder pocket at the intersubunit interface is indicated.
+*(Right)* The same view colored by group Shannon entropy. Color scale ranges from mint green (entropy = 0 bits, fully conserved) to hot pink (entropy = 2.06 bits, maximally variable), normalized to the global observed maximum across both subunits. Entropy was computed over six chemical property groups (hydrophobic, aromatic, polar, positive, negative, special) from a 40-species alignment of land plant Rubisco sequences. The pocket floor is predominantly conserved, consistent with its suitability as a minibinder target.
