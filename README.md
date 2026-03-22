@@ -3,7 +3,8 @@
 ![AI](https://img.shields.io/badge/AI-Protein%20Design-#BDCDEF)
 
 
-
+![Field](https://img.shields.io/badge/field-Rubisco%20Biochemistry-BDCDEF)
+![Focus](https://img.shields.io/badge/focus-Protein%20Interface%20Design-BDCDEF)
 
 
 ![phylogenetic_binder_comp_design_figures 001](https://github.com/user-attachments/assets/c6864535-ba8b-43b4-8a54-de53a3b2b2ed)
