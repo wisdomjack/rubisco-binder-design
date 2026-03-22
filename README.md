@@ -2,7 +2,7 @@
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![AI](https://img.shields.io/badge/AI-RFdiffusion-AEE4CC)
 ![Protein Design](https://img.shields.io/badge/Protein%20Design-Binder-AFDCE1)
-![Rubisco](https://img.shields.io/badge/Target-Rubisco-#F3A6C6)
+![Rubisco](https://img.shields.io/badge/Target-Rubisco-F3A6C6)
 
 
 ![phylogenetic_binder_comp_design_figures 001](https://github.com/user-attachments/assets/c6864535-ba8b-43b4-8a54-de53a3b2b2ed)
