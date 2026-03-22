@@ -1,6 +1,9 @@
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-
+![Python](https://img.shields.io/badge/python-3.10+-blue)
+![AI](https://img.shields.io/badge/AI-Protein%20Design-red)
+![Validated](https://img.shields.io/badge/validated-AlphaFold%20%7C%20Rosetta-green)
+![Reproducible](https://img.shields.io/badge/reproducible-yes-brightgreen)
 
 
 
