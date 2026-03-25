@@ -101,7 +101,7 @@ The use of a chemical-property consensus sequence as the folding template, rathe
 
 ---
 
-<img width="1920" height="1080" alt="phylogenetic_binder_comp_design_figures 001" src="https://github.com/user-attachments/assets/96da6b09-493e-4788-a97e-0b282eed7532" />
+<img width="1920" height="1080" alt="phylogenetic_binder_comp_design_figures 001" src="https://github.com/user-attachments/assets/cd165539-33ff-4151-83f5-6b86871d1b3e" />
 
 **Figure 3. Evolutionary conservation of the Rubisco holoenzyme surface.**
 *(Left)* Surface representation of the consensus L₈S₈ Rubisco holoenzyme showing the RbcL–RbcS–RbcL trimer interface. Subunits are colored by identity: RbcL, green; RbcS, lavender. The binder pocket at the intersubunit interface is indicated.
